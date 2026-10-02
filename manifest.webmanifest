@@ -1,0 +1,19 @@
+{
+  "name": "สมุดรายชื่อ MT5",
+  "short_name": "รายชื่อ MT5",
+  "description": "ทำรายชื่อผู้มุ่งหวังบนมือถือ สำหรับตัวแทนมิตรแท้ประกันภัย ทีม MT5",
+  "lang": "th",
+  "dir": "ltr",
+  "id": "/insurance_system/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0A6B62",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
